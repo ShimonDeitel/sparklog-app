@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Spark Plug Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Plug gap/type notes with multi-cylinder tracking",
+              "displayName": "Spark Plug Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.sparklog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Spark Plug Log Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
